@@ -60,6 +60,7 @@
     <Compile Include="manage.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Procfile" />
     <Content Include="requirements.txt" />
     <Content Include="runtime.txt" />
   </ItemGroup>
